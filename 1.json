@@ -1,0 +1,242 @@
+[
+  {
+    "name": "조조",
+    "kingdom": "위",
+    "force": 72,
+    "intelligence": 96,
+    "leadership": 96,
+    "charm": 96
+  },
+  {
+    "name": "사마의",
+    "kingdom": "위",
+    "force": 60,
+    "intelligence": 96,
+    "leadership": 96,
+    "charm": 81
+  },
+  {
+    "name": "허저",
+    "kingdom": "위",
+    "force": 96,
+    "intelligence": 37,
+    "leadership": 71,
+    "charm": 62
+  },
+  {
+    "name": "전위",
+    "kingdom": "위",
+    "force": 90,
+    "intelligence": 35,
+    "leadership": 67,
+    "charm": 58
+  },
+  {
+    "name": "곽가",
+    "kingdom": "위",
+    "force": 25,
+    "intelligence": 98,
+    "leadership": 75,
+    "charm": 88
+  },
+  {
+    "name": "순욱",
+    "kingdom": "위",
+    "force": 20,
+    "intelligence": 96,
+    "leadership": 85,
+    "charm": 93
+  },
+  {
+    "name": "장료",
+    "kingdom": "위",
+    "force": 87,
+    "intelligence": 75,
+    "leadership": 85,
+    "charm": 76
+  },
+  {
+    "name": "악진",
+    "kingdom": "위",
+    "force": 89,
+    "intelligence": 67,
+    "leadership": 80,
+    "charm": 70
+  },
+  {
+    "name": "우금",
+    "kingdom": "위",
+    "force": 83,
+    "intelligence": 70,
+    "leadership": 88,
+    "charm": 72
+  },
+  {
+    "name": "장합",
+    "kingdom": "위",
+    "force": 84,
+    "intelligence": 78,
+    "leadership": 86,
+    "charm": 74
+  },
+  {
+    "name": "유비",
+    "kingdom": "촉",
+    "force": 73,
+    "intelligence": 75,
+    "leadership": 85,
+    "charm": 99
+  },
+  {
+    "name": "관우",
+    "kingdom": "촉",
+    "force": 97,
+    "intelligence": 74,
+    "leadership": 85,
+    "charm": 87
+  },
+  {
+    "name": "장비",
+    "kingdom": "촉",
+    "force": 96,
+    "intelligence": 30,
+    "leadership": 65,
+    "charm": 42
+  },
+  {
+    "name": "제갈량",
+    "kingdom": "촉",
+    "force": 38,
+    "intelligence": 100,
+    "leadership": 96,
+    "charm": 93
+  },
+  {
+    "name": "조운",
+    "kingdom": "촉",
+    "force": 93,
+    "intelligence": 76,
+    "leadership": 85,
+    "charm": 80
+  },
+  {
+    "name": "마초",
+    "kingdom": "촉",
+    "force": 95,
+    "intelligence": 58,
+    "leadership": 75,
+    "charm": 89
+  },
+  {
+    "name": "황충",
+    "kingdom": "촉",
+    "force": 91,
+    "intelligence": 58,
+    "leadership": 71,
+    "charm": 65
+  },
+  {
+    "name": "방통",
+    "kingdom": "촉",
+    "force": 35,
+    "intelligence": 98,
+    "leadership": 80,
+    "charm": 85
+  },
+  {
+    "name": "법정",
+    "kingdom": "촉",
+    "force": 20,
+    "intelligence": 92,
+    "leadership": 70,
+    "charm": 78
+  },
+  {
+    "name": "위연",
+    "kingdom": "촉",
+    "force": 90,
+    "intelligence": 65,
+    "leadership": 78,
+    "charm": 55
+  },
+  {
+    "name": "손권",
+    "kingdom": "오",
+    "force": 70,
+    "intelligence": 83,
+    "leadership": 91,
+    "charm": 89
+  },
+  {
+    "name": "주유",
+    "kingdom": "오",
+    "force": 71,
+    "intelligence": 96,
+    "leadership": 91,
+    "charm": 98
+  },
+  {
+    "name": "감녕",
+    "kingdom": "오",
+    "force": 92,
+    "intelligence": 65,
+    "leadership": 78,
+    "charm": 73
+  },
+  {
+    "name": "태사자",
+    "kingdom": "오",
+    "force": 96,
+    "intelligence": 45,
+    "leadership": 67,
+    "charm": 71
+  },
+  {
+    "name": "황개",
+    "kingdom": "오",
+    "force": 88,
+    "intelligence": 70,
+    "leadership": 85,
+    "charm": 75
+  },
+  {
+    "name": "육손",
+    "kingdom": "오",
+    "force": 63,
+    "intelligence": 95,
+    "leadership": 89,
+    "charm": 85
+  },
+  {
+    "name": "주태",
+    "kingdom": "오",
+    "force": 86,
+    "intelligence": 55,
+    "leadership": 82,
+    "charm": 68
+  },
+  {
+    "name": "정보",
+    "kingdom": "오",
+    "force": 75,
+    "intelligence": 88,
+    "leadership": 87,
+    "charm": 82
+  },
+  {
+    "name": "능통",
+    "kingdom": "오",
+    "force": 84,
+    "intelligence": 72,
+    "leadership": 80,
+    "charm": 70
+  },
+  {
+    "name": "한당",
+    "kingdom": "오",
+    "force": 85,
+    "intelligence": 68,
+    "leadership": 83,
+    "charm": 72
+  }
+]
