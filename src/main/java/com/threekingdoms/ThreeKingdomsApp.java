@@ -2,24 +2,29 @@ package com.threekingdoms;
 
 import java.util.List;
 import java.util.Scanner;
+import java.io.PrintStream;
+import java.io.UnsupportedEncodingException;
 
 public class ThreeKingdomsApp {
     public static void main(String[] args) {
+        try {
+            System.setOut(new PrintStream(System.out, true, "UTF-8"));
+        } catch (UnsupportedEncodingException e) {
+            e.printStackTrace();
+        }
+
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("=== 삼국지 텍스트 게임 ===");
         System.out.println();
 
-        // 장수 데이터 로드 및 출력
         List<General> generals = GeneralData.getHistoricalGenerals();
         System.out.println("=== 장수 목록 ===");
 
-        // 국가별로 분류해서 출력
         printGeneralsByKingdom(generals, "위");
         printGeneralsByKingdom(generals, "촉");
         printGeneralsByKingdom(generals, "오");
 
-        // 도시 데이터 로드 및 출력
         List<City> cities = CityData.getCities();
         System.out.println();
         System.out.println("=== 도시 목록 ===");
@@ -28,9 +33,6 @@ public class ThreeKingdomsApp {
         }
 
         System.out.println();
-        System.out.println("게임을 시작하려면 아무 키나 누르세요...");
-        scanner.nextLine();
-
         System.out.println("삼국지 게임이 시작됩니다!");
 
         scanner.close();
